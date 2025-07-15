@@ -1,0 +1,26 @@
+        _    _               _
+       | |  | |             | |
+       | |__| | __ _ _ __ __| | ___ _ __
+       |  __  |/ _` | '__/ _` |/ _ \ '__|
+       | |  | | (_| | | | (_| |  __/ |
+       |_|  |_|\__,_|_|  \__,_|\___|_|
+
+       ______________________________
+      /                            /\
+     /     "What are you doing,   /  \
+    /    in my swamp, Jonathan?"/ .  \
+   /____________________________/\/ \  \
+   |  ________  ________  ______ | \  \ |
+   | |        ||        ||      ||  \  \|
+   | |Shrek   || Shrek  ||Shrek ||   |  |
+   | | Outfit ||  Ears  || Smile||   |  |
+   | |________||________||______||   |  |
+   |_____________________________|   |  |
+  /______________________________\  |  /
+ /   _________________________    \ | /
+(   /                         \   \|/
+ \_/___________________________\
+
+This is Shrek (who, for the purposes of this repository, was once Jonathan). The ancient legend goes that one day, Jonathan Chiam Heng Wei, the NUS IT Malaysian Contract Engineer, wrote shrek.instantiate() and instantly transformed into Shrek, guardian of the swamp and all things green.
+
+Let this ASCII art remind all contract engineers who dare meddle in my swamp!
